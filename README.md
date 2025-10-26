@@ -1,6 +1,5 @@
-
 # 🧟‍♂️ The Walking Dead 🧟‍♂️
----
+
 ## Series Description
 It is an American post-apocalyptic horror drama television series developed by Frank Darabont, based on the comic book series of the same name by Robert Kirkman, Tony Moore, and Charlie Adlard. Together, the show and the comic book series form the core of The Walking Dead franchise. The series features a large ensemble cast as survivors of a zombie apocalypse trying to stay alive under near-constant threat of attacks from zombies known as **"walkers"**. With the collapse of modern civilization, these survivors must confront other human survivors who have formed groups and communities with their own sets of laws and morals, sometimes leading to open conflict between them. The series is the first television series within The Walking Dead franchise.
 
